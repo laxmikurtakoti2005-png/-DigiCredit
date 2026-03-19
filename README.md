@@ -36,4 +36,61 @@ India has **15 million+ gig workers** (Zomato, Swiggy, Uber, Urban Company) who 
 ---
 
 ## 🛠️ Technology Stack
+┌─────────────┐ ┌──────────────┐ ┌─────────────────┐
+│ Gig Worker │────▶│ Data │────▶│ AI Credit │
+│ App Login │ │ Aggregator │ │ Engine │
+└─────────────┘ └──────────────┘ └────────┬────────┘
+│
+┌─────────────┐ ┌──────────────┐ ▼
+│ UPI │◀────│ Loan │ ┌─────────────────┐
+│ Disbursement│ │ Approval │ │ Dynamic Trust │
+│ (2 min) │ │ Logic │ │ Score Generated│
+└─────────────┘ └──────────────┘ └─────────────────┘
+│ ▲
+▼ │
+┌─────────────┐ ┌──────────────┐
+│ Revenue- │────▶│ Real-Time │
+│ Based │ │ Balance │
+│ Repayment │ │ Tracking │
+└─────────────┘ └──────────────┘
+
+text
+
+---
+
+## 🎯 Innovation & Impact
+
+**What Makes Us Unique:**
+- First credit engine trained specifically on gig economy data patterns
+- Dynamic repayment adjusts to income volatility
+- No collateral, no CIBIL score required—purely behavioral scoring
+- Real-time score updates after every gig completion
+
+**Social Impact:**
+- 15M+ workers access formal credit at 12-18% (vs 60% from local lenders)
+- Women gig workers get financial inclusion
+- Breaks debt trap cycle for daily-wage earners
+- Creates credit history for first-time borrowers
+
+---
+
+## 🗺️ Roadmap
+
+| Phase | Timeline | Goal |
+|-------|----------|------|
+| Phase 1 | Month 1 | Pilot with 1 gig platform (Zomato/Swiggy) |
+| Phase 2 | Months 3-6 | Expand to 5+ platforms, 50,000 users |
+| Phase 3 | Months 7-12 | Add micro-insurance & savings products |
+| Phase 4 | Year 2 | Open API for banks to use scoring model |
+
+---
+## 📚 References
+
+- NITI Aayog, 2023 — "India's Booming Gig Economy"
+- RBI, 2024 — "Report on Digital Lending and Financial Inclusion"
+- World Bank, 2023 — "The Role of Alternative Data in Credit Scoring"
+- Razorpay FinTech Report, 2024
+
+---
+
 
